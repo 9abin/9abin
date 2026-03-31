@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=9abin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/9abin"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <!--
 **9abin/9abin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
