@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=YOLO&logoColor=white" />
   <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </p>
 
 
