@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdfbfb,100:ebedee&height=200&section=header&text=Hello,%20World!%20₍ᐢ.ˬ.ᐡ₎%20.ᐟ&fontSize=50" />
 
-<h4 align="left"> 🐑 Me </h4>
+<h4 align="left"> 🍃 Me 🍃 </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/kimgabin.id@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
 </p>
