@@ -7,10 +7,10 @@
 
 <h4 align="left"> ✏️ Stack  </h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white" />,
-  <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=C&logoColor=white" />,
-  <img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=white" />,
-  <img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 </p>
 
 <!--
