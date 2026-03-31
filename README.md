@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdfbfb,100:ebedee&height=200&section=header&text=Hello,%20World!%20₍ᐢ.ˬ.ᐡ₎%20.ᐟ&fontSize=50" />
 
-<h3 align="left"> ☘️ Me  </h3>
+<h4 align="left"> ☘️ Me  </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/kimgabin.id%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
 </p>
 
-<h3 align="left"> ✏️ Stack  </h3>
+<h4 align="left"> ✏️ Stack  </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
