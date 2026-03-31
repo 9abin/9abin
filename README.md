@@ -2,7 +2,7 @@
 
 <h4 align="left"> ☘️ Me  </h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/kimgabin.id%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/kimgabin.id%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
 </p>
 <!--
 **9abin/9abin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
