@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
