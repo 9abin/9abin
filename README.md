@@ -1,4 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdfbfb,100:ebedee&height=200&section=header&text=Hello,%20World!%20₍ᐢ.ˬ.ᐡ₎%20.ᐟ&fontSize=50" />
+
+<h4 align="left"> 🐑 Me </h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/표시되는 이름-#EA4335?style=flat-square&logo=kimgabin.id@gmail.com&logoColor=white"/></a>&nbsp
+</p>
 <!--
 **9abin/9abin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
