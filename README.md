@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/kimgabin.id%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
 </p>
 
+<br></br>
+
 <h4 align="left"> ✏️ Stack  </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -24,7 +26,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </p>
 <br></br>
-<br></br>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=9abin&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/9abin"
