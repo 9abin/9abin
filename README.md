@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=200&section=header&text=Hello,%20World!%20₍ᐢ.ˬ.ᐡ₎%20.ᐟ&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93a5cf,100:e4efe9&height=200&section=header&text=Hello,%20World!%20₍ᐢ.ˬ.ᐡ₎%20.ᐟ&fontSize=50" />
 <!--
 **9abin/9abin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
